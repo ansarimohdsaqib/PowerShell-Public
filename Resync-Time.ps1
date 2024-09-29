@@ -25,6 +25,5 @@
     }
 
 } catch {
-    Write-Host "Task not created"
     Exit 1
 }
